@@ -33,6 +33,7 @@ table.schedule {
 	background: #eef;
 	border-collapse: collapse;
 	border: 1px solid #228;
+	margin-top: 10px;
 }
 
 td {

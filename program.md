@@ -5,23 +5,123 @@ title: "CCSC-E 2014 Program"
 
 Last updated: July 3rd, 2014
 
-# Friday, November 14th
+# Schedule
+
+## Friday, November 14th
 
 <table class="schedule">
 	<tr>
 		<td class="timeslot">
-			1PM - 2PM
+			12:00 PM-<br>
+			1:00 PM
+		</td>
+		<td>
+			<span class="evt_title">Registration</span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">Willman Business Administration Building Lobby</span><br>
+		</td>
+	</tr>
+</table>
+<table class="schedule">
+	<tr>
+		<td class="timeslot">
+			1:00 PM-<br>2:00 PM
 		</td>
 		<td>
 			<span class="evt_title">Keynote address</span><br>
 			<span class="evt_details">Dr. Daniel Russell, <i>Mindtools:  What does it Mean to be Literate in the Age of Google?</i></span><br>
-			<span class="evt_room">Weinstock Lecture Hall</span><br>
-			<span class="evt_bldg">Willman Business Administration Building</span>
+			<span class="evt_loc">Weinstock Lecture Hall, Willman Business Administration Building</span><br>
+	</tr>
+</table>
+<table class="schedule">
+	<tr>
+		<td class="timeslot">
+			2:20 PM-<br>3:45 PM
+		</td>
+		<td>
+			<span class="evt_title"><a href="#paper_session_1">Paper Session 1: Special Topics</a></span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">TBD</span><br>
+		</td>
+		<td>
+			<span class="evt_title">Workshop 1: Python Graphics for the Classroom (Part 1)</span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">TBD</span><br>
+		</td>
+		<td>
+			<span class="evt_title">Panel 1: Recruiting, Retaining, and Completing as a Team</span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">TBD</span><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="timeslot">
+			3:50 PM-<br>5:15 PM
+		</td>
+		<td>
+			<span class="evt_title"><a href="#paper_session_2">Paper Session 2: CS1</a></span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">TBD</span><br>
+		</td>
+		<td>
+			<span class="evt_title">Workshop 1: Python Graphics for the Classroom (Part 2)</span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">TBD</span><br>
+		</td>
+		<td>
+			<span class="evt_title"></span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">TBD</span><br>
+		</td>
+	</tr>
+</table>
+<table class="schedule">
+	<tr>
+		<td class="timeslot">
+			5:25 PM-<br>6:25 PM
+		</td>
+		<td>
+			<span class="evt_title">Reception, Poster Presentations</span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">Yorkview Hall</span><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="timeslot">
+			6:30 PM-<br>8:00 PM
+		</td>
+		<td>
+			<span class="evt_title">Banquet</span><br>
+			<span class="evt_details">Speaker TBD</span><br>
+			<span class="evt_loc">Yorkview Hall</span><br>
+		</td>
 	</tr>
 </table>
 
+## Saturday, November 15th
 
-# Saturday, November 15th
+# Details
+
+<h2><a name="paper_session_1">Paper Session 1: Special Topics</a></h2>
+
+Details
+
+<h2><a name="paper_session_2">Paper Session 2: CS1</a></h2>
+
+Details
+
+<h2><a name="paper_session_3">Paper Session 3: Alternative Approaches</a></h2>
+
+Details
+
+<h2><a name="paper_session_4">Paper Session 4: Curriculum</a></h2>
+
+Details
+
+<h2><a name="paper_session_5">Paper Session 5: Teaching Tools</a></h2>
+
+Details
+
 
 <!--
 vim:ts=2:
