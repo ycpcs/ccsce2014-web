@@ -205,7 +205,27 @@ Last updated: July 3rd, 2014
 
 <h2><a name="paper_session_1">Paper Session 1: Special Topics</a></h2>
 
-Details
+<div class="session-item">
+	<div class="session-title">ITS Debug: Practical Results</div>
+	<div class="session-authors">Elizabeth Carter, Lehigh University</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">An Approach to the Fairy Tale Card Game: A Rotating Sets Competitive Knapsack Problem with Strongly Stochastic Rewards and Item Availability</div>
+	<div class="session-authors">Candice Schumann, Timothy Highley, and Howard Stickley, La Salle University</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Testing the Security Vulnerabilities of OpenEMR 4.1.1: A Case Study</div>
+	<div class="session-authors">Francis Akowuah, Jerrisa Lake, Xiaohong Yuan, Emmanuel Nuakoh, Huiming Yu, North Carolina A&T State University</div>
+</div>
+
+<!--
+<div class="session-item">
+	<div class="session-title"></div>
+	<div class="session-authors"></div>
+</div>
+-->
 
 <h2><a name="paper_session_2">Paper Session 2: CS1</a></h2>
 

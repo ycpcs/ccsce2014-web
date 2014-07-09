@@ -48,3 +48,16 @@ td.timeslot {
 td.evt {
 	min-width: 148px;
 }
+
+div.session-item {
+	margin-left: 40px;
+	margin-top: 16px;
+}
+
+div.session-title {
+	font-style: italic;
+}
+
+div.session-authors {
+	margin-top: 4px;
+}
