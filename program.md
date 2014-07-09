@@ -182,7 +182,7 @@ Last updated: July 3rd, 2014
 			<span class="evt_loc">TBD</span><br>
 		</td>
 		<td class="evt">
-			<span class="evt_title">Tutorial 2: Developing Concentrations in Big Data Analytics and Software Development at a Small Liberal Arts University</span><br>
+			<span class="evt_title">Tutorial 2: Setting up and Running Emerging Scholars Workshops for CS1</span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">TBD</span><br>
 		</td>
@@ -318,11 +318,22 @@ robotics course.</p>
 
 <h2><a name="tutorial_1">Tutorial 1: Strategically Recruiting Women Students into Your Undergraduate Computing Major</a></h2>
 
-Details
+<div class="session-item">
+	<div class="workshop-authors"></div>
+	<div class="workshop-abstract"></div>
+</div>
 
-<h2><a name="tutorial_2">Tutorial 2: Developing Concentrations in Big Data Analytics and Software Development at a Small Liberal Arts University</a></h2>
+<h2><a name="tutorial_2">Tutorial 2: Setting up and Running Emerging Scholars Workshops for CS1</a></h2>
 
-Details
+<div class="session-item">
+	<div class="workshop-authors">Lindsay H. Jamieson, Alan C. Jamieson, St. Mary's College of Maryland</div>
+	<div class="workshop-abstract">
+		One of the greatest challenges in computer science education is the recruitment and retention of students
+in underrepresented groups. In this workshop, we present a model for a successful enrichment program
+targeting and supporting students from these groups, used in tandem with CS1 at St. Mary’s College of
+Maryland.
+	</div>
+</div>
 
 <!--
 <div class="session-item">
