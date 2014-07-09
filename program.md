@@ -258,7 +258,21 @@ Last updated: July 3rd, 2014
 
 <h2><a name="paper_session_4">Paper Session 4: Curriculum</a></h2>
 
-Details
+<div class="session-item">
+	<div class="session-title">A Place for Node.js in the Computer Science Curriculum</div>
+	<div class="session-authors">Scott Frees, Ramapo College of New Jersey</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Developing Concentrations in Big Data Analytics and Software Development at a Small Liberal Arts University</div>
+	<div class="session-authors">Aparna Mahadev, Karl R. Wurst, Worcester State University</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">A Failing Grade for Faculty: Comparing Faculty Perception of Student Expectations and Reality</div>
+	<div class="session-authors">Karl R.B. Schmitt, Valparaiso University, Abdel-Hameed A. Badawy, Arkansas Tech University, Sabrina S. Kramer, Elise A. Larsen, Artesha C. Taylor, Andrea A. Andrew, Breanne Roberston, Alexis Y. Williams, University of Maryland, College Park,
+Katie Hrapczynski, Towson University, Mara Doughtery, American University, Matthew W. Miller, Auburn University, Spencer S. Benson, University of Macau</div>
+</div>
 
 <h2><a name="paper_session_5">Paper Session 5: Teaching Tools</a></h2>
 
