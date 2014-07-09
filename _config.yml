@@ -6,4 +6,8 @@ url: "http://daveho.github.io/ccsce2014-web"
 paginate: 10
 
 markdown: rdiscount
+
+rdiscount:
+  extensions: [smart]
+
 pygments: true

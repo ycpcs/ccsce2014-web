@@ -319,8 +319,16 @@ robotics course.</p>
 <h2><a name="tutorial_1">Tutorial 1: Strategically Recruiting Women Students into Your Undergraduate Computing Major</a></h2>
 
 <div class="session-item">
-	<div class="workshop-authors"></div>
-	<div class="workshop-abstract"></div>
+	<div class="workshop-authors">Lillian (Boots) Cassel, Villanova University</div>
+	<div class="workshop-abstract">As we witness tremendous growth in computing occupations' size and influence over
+our lives, economy, and security, women continue to be deeply underrepresented.
+Research on technology organizations demonstrates that gender-diverse teams are
+more likely to stay on schedule and under budget and have improved employee
+performance overall. This tutorial will show faculty can contribute to increasing
+women's participation in computing by developing a comprehensive strategy for
+recruiting undergraduate computer science students using a "high yield in the short
+term." This approach encompasses strategies to maximize return with the least efforts
+for faculty.</div>
 </div>
 
 <h2><a name="tutorial_2">Tutorial 2: Setting up and Running Emerging Scholars Workshops for CS1</a></h2>
