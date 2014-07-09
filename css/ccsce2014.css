@@ -44,3 +44,7 @@ td {
 td.timeslot {
 	width: 100px;
 }
+
+td.evt {
+	min-width: 148px;
+}
