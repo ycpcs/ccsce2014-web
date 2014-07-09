@@ -229,11 +229,32 @@ Last updated: July 3rd, 2014
 
 <h2><a name="paper_session_2">Paper Session 2: CS1</a></h2>
 
-Details
+<div class="session-item">
+	<div class="session-title">Pedagogical Possibilities for the 2048 Puzzle Game</div>
+	<div class="session-authors">Todd W. Neller, Gettysburg College</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Experience with a Hybrid CS1 for Non-Majors</div>
+	<div class="session-authors">Jeffrey A. Stone, Tricia K. Clark, Penn State University</div>
+</div>
 
 <h2><a name="paper_session_3">Paper Session 3: Alternative Approaches</a></h2>
 
-Details
+<div class="session-item">
+	<div class="session-title">Teaching Chi-Square Test for Independence Using Simulation in Excel and R</div>
+	<div class="session-authors">Leslie Chandrakantha, John Jay College of Criminal Justice of CUNY</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">A Top Down Approach to an Introductory Database Systems Course Using Web Applications</div>
+	<div class="session-authors">Adam H. Villa, Providence College</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Engaging Students in Scientific Thinking: Eye Tracking Methods as a Gen-Ed</div>
+	<div class="session-authors">Washington & Jefferson College</div>
+</div>
 
 <h2><a name="paper_session_4">Paper Session 4: Curriculum</a></h2>
 
