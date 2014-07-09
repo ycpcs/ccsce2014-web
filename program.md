@@ -3,7 +3,7 @@ layout: default
 title: "CCSC-E 2014 Program"
 ---
 
-Last updated: July 3rd, 2014
+Last updated: July 9th, 2014
 
 *Preliminary program*: Subject to change
 
