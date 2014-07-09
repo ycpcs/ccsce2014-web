@@ -220,13 +220,6 @@ Last updated: July 3rd, 2014
 	<div class="session-authors">Francis Akowuah, Jerrisa Lake, Xiaohong Yuan, Emmanuel Nuakoh, Huiming Yu, North Carolina A&T State University</div>
 </div>
 
-<!--
-<div class="session-item">
-	<div class="session-title"></div>
-	<div class="session-authors"></div>
-</div>
--->
-
 <h2><a name="paper_session_2">Paper Session 2: CS1</a></h2>
 
 <div class="session-item">
@@ -276,7 +269,20 @@ Katie Hrapczynski, Towson University, Mara Doughtery, American University, Matth
 
 <h2><a name="paper_session_5">Paper Session 5: Teaching Tools</a></h2>
 
-Details
+<div class="session-item">
+	<div class="session-title">ZeusLite: A Tool for Botnet Analysis in the Classroom</div>
+	<div class="session-authors">Kyle Hannah and Steven Gianvecchio, Christopher Newport University</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Teaching Semaphores Using...Semaphores</div>
+	<div class="session-authors">Robert Marmorstein, Longwood University</div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Designing an Interactive Personal Assistant Web Application System</div>
+	<div class="session-authors">Joo Tan, David Day, Kyle Wamsley, Kutztown University of Pennsylvania</div>
+</div>
 
 <h2><a name="workshop_1">Workshop 1: Python Graphics for the Classroom</a></h2>
 
@@ -293,6 +299,13 @@ Details
 <h2><a name="tutorial_2">Developing Concentrations in Big Data Analytics and Software Development at a Small Liberal Arts University</a></h2>
 
 Details
+
+<!--
+<div class="session-item">
+	<div class="session-title"></div>
+	<div class="session-authors"></div>
+</div>
+-->
 
 <!--
 vim:ts=2:
