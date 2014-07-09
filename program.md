@@ -46,7 +46,7 @@ Last updated: July 3rd, 2014
 			<span class="evt_loc">TBD</span><br>
 		</td>
 		<td class="evt">
-			<span class="evt_title">Workshop 1: Python Graphics for the Classroom (Part 1)</span><br>
+			<span class="evt_title"><a href="#workshop_1">Workshop 1: Python Graphics for the Classroom (Part 1)</a></span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">TBD</span><br>
 		</td>
@@ -66,7 +66,7 @@ Last updated: July 3rd, 2014
 			<span class="evt_loc">TBD</span><br>
 		</td>
 		<td class="evt">
-			<span class="evt_title">Workshop 1: Python Graphics for the Classroom (Part 2)</span><br>
+			<span class="evt_title"><a href="#workshop_1">Workshop 1: Python Graphics for the Classroom (Part 2)</a></span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">TBD</span><br>
 		</td>
@@ -137,7 +137,7 @@ Last updated: July 3rd, 2014
 			<span class="evt_loc">TBD</span><br>
 		</td>
 		<td class="evt">
-			<span class="evt_title">Workshop 2: Teaching Robotics Using ROS (Part 1)</span><br>
+			<span class="evt_title"><a href="#workshop_2">Workshop 2: Teaching Robotics Using ROS (Part 1)</a></span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">TBD</span><br>
 		</td>
@@ -157,12 +157,12 @@ Last updated: July 3rd, 2014
 			<span class="evt_loc">TBD</span><br>
 		</td>
 		<td class="evt">
-			<span class="evt_title">Workshop 2: Teaching Robotics Using ROS (Part 2)</span><br>
+			<span class="evt_title"><a href="#workshop_2">Workshop 2: Teaching Robotics Using ROS (Part 2)</a></span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">TBD</span><br>
 		</td>
 		<td>
-			<span class="evt_title">Tutorial 1: Strategically Recruiting Women Students into Your Undergraduate Computing Major</span><br>
+			<span class="evt_title"><a href="#tutorial_1">Tutorial 1: Strategically Recruiting Women Students into Your Undergraduate Computing Major</a></span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">TBD</span><br>
 		</td>
@@ -172,7 +172,7 @@ Last updated: July 3rd, 2014
 			11:30 AM-<br>12:55 PM
 		</td>
 		<td class="evt">
-			<span class="evt_title"><a href="">Paper Session 5: Teaching Tools</span><br>
+			<span class="evt_title"><a href="#paper_session_5">Paper Session 5: Teaching Tools</a></span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">TBD</span><br>
 		</td>
@@ -182,7 +182,7 @@ Last updated: July 3rd, 2014
 			<span class="evt_loc">TBD</span><br>
 		</td>
 		<td class="evt">
-			<span class="evt_title">Tutorial 2: Setting up and Running Emerging Scholars Workshops for CS1</span><br>
+			<span class="evt_title"><a href="#tutorial_2">Tutorial 2: Setting up and Running Emerging Scholars Workshops for CS1</a></span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">TBD</span><br>
 		</td>
