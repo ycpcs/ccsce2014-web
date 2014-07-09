@@ -286,17 +286,41 @@ Katie Hrapczynski, Towson University, Mara Doughtery, American University, Matth
 
 <h2><a name="workshop_1">Workshop 1: Python Graphics for the Classroom</a></h2>
 
-Details
+<div class="session-item">
+	<div class="workshop-authors">Rance Necaise, Randolph-Macon College</div>
+	<div class="workshop-abstract">
+		The benefits of using graphics and image processing to help illustrate and reinforce
+basic programming concepts in introductory courses is well known. But with the
+increasing popularity of using Python in the introductory courses, instructors may find
+the standard Python graphics package is too complex and difficult for beginning
+students. This workshop will introduce and provide hands-on experience in using a
+new Python graphics module that was designed with an emphasis on its use in the
+classroom. Participants will work through a variety of exercises from very basic shape
+drawing and image processing to more advanced animation examples.
+	</div>
+</div>
 
 <h2><a name="workshop_2">Workshop 2: Teaching Robotics Using ROS</a></h2>
 
-Details
+<div class="session-item">
+	<div class="workshop-authors">Nathan Sprague, James Madison University</div>
+	<div class="workshop-abstract">
+<p>The Robot Operating System (ROS) has had a dramatic impact on the field of robotics
+over the last several years. ROS is an open-source software framework for developing
+robotics applications. It has become a standard platform with a wide range of supported
+robots and a vibrant software ecosystem.</p>
+<p>This workshop will provide a hands-on introduction to ROS. Participants will have
+the opportunity to write ROS-based Python programs to control a Turtlebot educational
+robot. We will discuss the benefits and challenges of using ROS in an undergraduate
+robotics course.</p>
+	</div>
+</div>
 
 <h2><a name="tutorial_1">Tutorial 1: Strategically Recruiting Women Students into Your Undergraduate Computing Major</a></h2>
 
 Details
 
-<h2><a name="tutorial_2">Developing Concentrations in Big Data Analytics and Software Development at a Small Liberal Arts University</a></h2>
+<h2><a name="tutorial_2">Tutorial 2: Developing Concentrations in Big Data Analytics and Software Development at a Small Liberal Arts University</a></h2>
 
 Details
 
