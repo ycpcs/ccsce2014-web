@@ -5,7 +5,7 @@ title: "CCSC-E 2014 Program"
 
 Last updated: July 11th, 2014
 
-*Preliminary program*: Details are subject to change.
+*Preliminary program*: Details are subject to change.  Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 
 # Schedule
 
