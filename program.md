@@ -3,7 +3,7 @@ layout: default
 title: "CCSC-E 2014 Program"
 ---
 
-Last updated: July 11th, 2014
+Last updated: August 25th, 2014
 
 *Preliminary program*: Details are subject to change.  Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 
@@ -230,6 +230,12 @@ Last updated: July 11th, 2014
 <div class="session-item">
 	<div class="session-title">Experience with a Hybrid CS1 for Non-Majors</div>
 	<div class="session-authors">Jeffrey A. Stone, Tricia K. Clark, <i>Penn State University</i></div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Predicting Student Success using Fine Grain Clicker Data (Invited Talk)</div>
+	<div class="session-authors">Leo Porter, <i>Skidmore College</i></div>
+	<div class="session-authors">Courtesy of the SIGCSE Speakers Fund</div>
 </div>
 
 <h2><a name="paper_session_3">Paper Session 3: Alternative Approaches</a></h2>
