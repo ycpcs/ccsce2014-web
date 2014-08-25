@@ -235,7 +235,9 @@ Last updated: August 25th, 2014
 <div class="session-item">
 	<div class="session-title">Predicting Student Success using Fine Grain Clicker Data (Invited Talk)</div>
 	<div class="session-authors">Leo Porter, <i>Skidmore College</i></div>
-	<div class="session-authors">Courtesy of the SIGCSE Speakers Fund</div>
+	<div class="session-authors">
+We would like to thank the ACM Special Interest Group in Computer Science Education for providing support.  This paper was originally presented at ICER 2014.
+	</div>
 </div>
 
 <h2><a name="paper_session_3">Paper Session 3: Alternative Approaches</a></h2>
