@@ -1,7 +1,7 @@
 name: ""
 description: ""
 
-url: "http://daveho.github.io/ccsce2014-web"
+baseurl: "http://daveho.github.io/ccsce2014-web"
 
 paginate: 10
 
