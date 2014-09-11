@@ -5,7 +5,9 @@ title: "CCSC-E 2014 Program"
 
 Last updated: September 11th, 2014
 
-*Preliminary program*: Details are subject to change.  Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
+Note: This is not (necessarily) the final program.  There is a small chance that some minor changes may occur.
+
+Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 
 # Schedule
 
@@ -105,12 +107,32 @@ Last updated: September 11th, 2014
 <table class="schedule">
 	<tr>
 		<td class="timeslot">
-			8:00 AM-<br> 12:00 PM
+			7:30 AM-<br> 8:15 PM
+		</td>
+		<td class="evt">
+			<span class="evt_title">Programming Contest Breakfast</span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">KEC Canteen Area</span><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="timeslot">
+			8:15 AM-<br> 9:00 AM
+		</td>
+		<td class="evt">
+			<span class="evt_title">Programming Contest Orientation</span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">KEC 125</span><br>
+		</td>
+	</tr>
+	<tr>
+		<td class="timeslot">
+			9:00 AM-<br> 12:00 PM
 		</td>
 		<td class="evt">
 			<span class="evt_title">Programming Contest</span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">KEC 125, 126, 128</span><br>
+			<span class="evt_loc">KEC 126, 128</span><br>
 		</td>
 	</tr>
 </table>
@@ -120,9 +142,9 @@ Last updated: September 11th, 2014
 			7:30 AM-<br>8:30 AM
 		</td>
 		<td class="evt">
-			<span class="evt_title">Continental breakfast</span><br>
+			<span class="evt_title">Continental Breakfast</span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">KEC Lobby</span><br>
+			<span class="evt_loc">KEC 117</span><br>
 		</td>
 	</tr>
 </table>
