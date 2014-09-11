@@ -3,7 +3,7 @@ layout: default
 title: "CCSC-E 2014 Program"
 ---
 
-Last updated: August 25th, 2014
+Last updated: September 11th, 2014
 
 *Preliminary program*: Details are subject to change.  Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 
@@ -31,7 +31,7 @@ Last updated: August 25th, 2014
 		</td>
 		<td class="evt">
 			<span class="evt_title">Keynote address</span><br>
-			<span class="evt_details"><a href="https://sites.google.com/site/dmrussell/">Dr. Daniel Russell</a>, <i>Mindtools:  What does it Mean to be Literate in the Age of Google?</i></span><br>
+			<span class="evt_details"><a href="https://sites.google.com/site/dmrussell/">Dr. Daniel Russell</a>, Google, <i>Mindtools:  What does it Mean to be Literate in the Age of Google?</i></span><br>
 			<span class="evt_loc">Weinstock Lecture Hall, Willman Business Administration Building</span><br>
 	</tr>
 </table>
@@ -43,17 +43,17 @@ Last updated: August 25th, 2014
 		<td class="evt">
 			<span class="evt_title"><a href="#paper_session_1">Paper Session 1: Special Topics</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 123</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title"><a href="#workshop_1">Workshop 1: Python Graphics for the Classroom (Part 1)</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 124</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title"><a href="#panel_1">Panel 1: Recruiting, Retaining, and Completing as a Team</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 119</span><br>
 		</td>
 	</tr>
 	<tr>
@@ -63,17 +63,17 @@ Last updated: August 25th, 2014
 		<td class="evt">
 			<span class="evt_title"><a href="#paper_session_2">Paper Session 2: CS1</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 123</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title"><a href="#workshop_1">Workshop 1: Python Graphics for the Classroom (Part 2)</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 124</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title"></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc"></span><br>
 		</td>
 	</tr>
 </table>
@@ -94,7 +94,7 @@ Last updated: August 25th, 2014
 		</td>
 		<td class="evt">
 			<span class="evt_title">Banquet</span><br>
-			<span class="evt_details"><a href="http://www.cigital.com/~gem/">Dr. Gary McGraw</a>, Cigital, Inc. [talk topic TBA]</span><br>
+			<span class="evt_details"><a href="http://www.cigital.com/~gem/">Dr. Gary McGraw</a>, Cigital, Inc., <i>Software Security and the Building Security in Maturity Model (BSIMM)</i></span><br>
 			<span class="evt_loc">Yorkview Hall, Willman Business Administration Building</span><br>
 		</td>
 	</tr>
@@ -134,17 +134,17 @@ Last updated: August 25th, 2014
 		<td class="evt">
 			<span class="evt_title"><a href="#paper_session_3">Paper Session 3: Alternative Approaches</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 123</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title"><a href="#workshop_2">Workshop 2: Teaching Robotics Using ROS (Part 1)</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 124</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title">Nifty and Lightning Talks</span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 119</span><br>
 		</td>
 	</tr>
 	<tr>
@@ -154,17 +154,17 @@ Last updated: August 25th, 2014
 		<td class="evt">
 			<span class="evt_title"><a href="#paper_session_4">Paper Session 4: Curriculum</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 123</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title"><a href="#workshop_2">Workshop 2: Teaching Robotics Using ROS (Part 2)</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 124</span><br>
 		</td>
 		<td>
 			<span class="evt_title"><a href="#tutorial_1">Tutorial 1: Strategically Recruiting Women Students into Your Undergraduate Computing Major</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 119</span><br>
 		</td>
 	</tr>
 	<tr>
@@ -174,17 +174,17 @@ Last updated: August 25th, 2014
 		<td class="evt">
 			<span class="evt_title"><a href="#paper_session_5">Paper Session 5: Teaching Tools</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 123</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title"><a href="#panel_2">Panel 2: Connecting Academic and Professional Computer Science: Strategies and Experiences</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 124</span><br>
 		</td>
 		<td class="evt">
 			<span class="evt_title"><a href="#tutorial_2">Tutorial 2: Setting up and Running Emerging Scholars Workshops for CS1</a></span><br>
 			<span class="evt_details"></span><br>
-			<span class="evt_loc">TBD</span><br>
+			<span class="evt_loc">KEC 119</span><br>
 		</td>
 	</tr>
 </table>
