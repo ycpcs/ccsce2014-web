@@ -17,6 +17,8 @@ Teams may write their solutions in Java or C++.  Eclipse Luna is provided as the
 
 The use of cell phones or other electronic devices during the contest is strictly prohibited.  Any violation of this rule will result in the offending team's immediate disqualification.  Team members must have all such devices turned off during the contest.
 
-The use of *printed* textbooks and language references during the contest is permitted.
+The use of *printed* textbooks and language references during the contest is permitted.  Teams must bring their own printed reference texts; no reference texts will be provided.
 
 General web access is not allowed during the contest (and will be disabled at the operating system level.)  Access to the Java API documentation will be provided (through Eclipse and through a local web browser.)  No electronic information about C++ will be provided, so teams planning to use C++ should bring their own language reference texts.
+
+
