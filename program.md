@@ -3,7 +3,7 @@ layout: default
 title: "CCSC-E 2014 Program"
 ---
 
-Last updated: September 11th, 2014
+Last updated: October 20th, 2014
 
 Note: This is not (necessarily) the final program.  There is a small chance that some minor changes may occur.
 
@@ -256,7 +256,7 @@ Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 
 <div class="session-item">
 	<div class="session-title">Predicting Student Success using Fine Grain Clicker Data (Invited Talk)</div>
-	<div class="session-authors">Leo Porter, <i>Skidmore College</i></div>
+	<div class="session-authors">Leo Porter, <i>UC San Diego</i></div>
 	<div class="session-authors">
 We would like to thank the ACM Special Interest Group in Computer Science Education for providing support.  This paper was originally presented at ICER 2014.
 	</div>
