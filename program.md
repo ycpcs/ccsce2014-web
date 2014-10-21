@@ -164,7 +164,7 @@ Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 			<span class="evt_loc">KEC 124</span><br>
 		</td>
 		<td class="evt">
-			<span class="evt_title">Nifty and Lightning Talks</span><br>
+			<span class="evt_title"><a href="#lightning_talks">Nifty and Lightning Talks</a></span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">KEC 119</span><br>
 		</td>
@@ -396,6 +396,28 @@ team building.
 
 The panelists' presentations will describe experiences with various mechanisms designed to connect typical academic concepts with skills and issues relevant to professional computer scientists. The primary objectives of this panel are to discuss strategies for engaging students and making connections between academic work and their future lives as professional computer scientists.
 	</div>
+</div>
+
+<h2><a name="lightning_talks">Nifty and Lightning Talks</a></h2>
+
+<div class="session-item">
+	<div class="session-title">Monty-Monte-Monty: A (Monty) Python, Monte Carlo Simulation of the Monty Hall Problem</div>
+	<div class="session-authors">Robert Montante, <i>Bloomsburg University of Pennsylvania</i></div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Independent Language Learning in a Programming Languages Class</div>
+	<div class="session-authors">Nancy Tinkham, <i>Rowan University</i></div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Using the Scrum Methodology to Foster Collaboration, Growth, and Communication</div>
+	<div class="session-authors">Susan Ceklosky, <i>Chestnut Hill College</i></div>
+</div>
+
+<div class="session-item">
+	<div class="session-title">Using Oracle Enterprise Manager (OEM) for Teaching Database Administration Functions in a Database Course</div>
+	<div class="session-authors">Zahira Khan, <i>Bloomsburg University of Pennsylvania</i></div>
 </div>
 
 <!--
