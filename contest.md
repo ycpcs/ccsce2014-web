@@ -3,9 +3,9 @@ layout: default
 title: "CCSC-E 2014 Programming Contest"
 ---
 
-Last updated: September 15th, 2014
+Last updated: October 23rd, 2014
 
-This page has some preliminary information about the CCSC-E 2014 programming contest.  Please note that this information is *preliminary*, and that details are very likely to change.
+This page has information about the CCSC-E 2014 programming contest.  Please note that some details might change, and we may add additional information.
 
 Email comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu)
 
