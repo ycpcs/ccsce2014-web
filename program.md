@@ -3,7 +3,7 @@ layout: default
 title: "CCSC-E 2014 Program"
 ---
 
-Last updated: October 20th, 2014
+Last updated: October 30th, 2014
 
 Note: This is not (necessarily) the final program.  There is a small chance that some minor changes may occur.
 
@@ -222,6 +222,28 @@ Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 		</td>
 	</tr>
 </table>
+<table class="schedule">
+	<tr>
+		<td class="timeslot">
+			2:45 PM-<br>5:45 PM
+		</td>
+		<td class="evt">
+			<span class="evt_title"></span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc"></span><br>
+		</td>
+		<td class="evt">
+			<span class="evt_title"><a href="#workshop_2">Workshop 2: Teaching Robotics Using ROS</a></span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc">KEC 124</span><br>
+		</td>
+		<td class="evt">
+			<span class="evt_title"></span><br>
+			<span class="evt_details"></span><br>
+			<span class="evt_loc"></span><br>
+		</td>
+	</tr>
+</table>
 
 # Details
 
@@ -294,7 +316,7 @@ We would like to thank the ACM Special Interest Group in Computer Science Educat
 <div class="session-item">
 	<div class="session-title">A Failing Grade for Faculty: Comparing Faculty Perception of Student Expectations and Reality</div>
 	<div class="session-authors">Karl R.B. Schmitt, <i>Valparaiso University</i>, Abdel-Hameed A. Badawy, <i>Arkansas Tech University</i>, Sabrina S. Kramer, Elise A. Larsen, Artesha C. Taylor, Andrea A. Andrew, Breanne Roberston, Alexis Y. Williams, <i>University of Maryland, College Park</i>,
-Katie Hrapczynski, <i>Towson University</i>, Mara Doughtery, American University, Matthew W. Miller, <i>Auburn University</i>, Spencer S. Benson, <i>University of Macau</i></div>
+Katie Hrapczynski, <i>Towson University</i>, Mara Doughtery, <i>American University</i>, Matthew W. Miller, <i>Auburn University</i>, Spencer S. Benson, <i>University of Macau</i></div>
 </div>
 
 <h2><a name="paper_session_5">Paper Session 5: Teaching Tools</a></h2>
@@ -343,13 +365,14 @@ robots and a vibrant software ecosystem.</p>
 the opportunity to write ROS-based Python programs to control a Turtlebot educational
 robot. We will discuss the benefits and challenges of using ROS in an undergraduate
 robotics course.</p>
+<p><em>Note:</em> This workshop will be offered twice, both during the conference on Saturday morning, and after the conference on Saturday afternoon.</p>
 	</div>
 </div>
 
 <h2><a name="tutorial_1">Tutorial 1: Strategically Recruiting Women Students into Your Undergraduate Computing Major</a></h2>
 
 <div class="session-item">
-	<div class="workshop-authors">Lillian (Boots) Cassel, <i>Villanova University</i></div>
+	<div class="workshop-authors">Robert Beck, <i>Villanova University</i></div>
 	<div class="workshop-abstract">As we witness tremendous growth in computing occupations' size and influence over
 our lives, economy, and security, women continue to be deeply underrepresented.
 Research on technology organizations demonstrates that gender-diverse teams are
