@@ -280,7 +280,7 @@ Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 	<div class="session-title">Predicting Student Success using Fine Grain Clicker Data (Invited Talk)</div>
 	<div class="session-authors">Leo Porter, <i>UC San Diego</i></div>
 	<div class="session-authors">
-We would like to thank the ACM Special Interest Group in Computer Science Education for providing support.  This paper was originally presented at ICER 2014.
+We would like to thank the ACM Special Interest Group in Computer Science Education for providing support for Leo's travel.  This paper was originally presented at ICER 2014.
 	</div>
 </div>
 
