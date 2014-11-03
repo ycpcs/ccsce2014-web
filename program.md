@@ -3,7 +3,7 @@ layout: default
 title: "CCSC-E 2014 Program"
 ---
 
-Last updated: October 30th, 2014
+Last updated: November 3rd, 2014
 
 Note: This is not (necessarily) the final program.  There is a small chance that some minor changes may occur.
 
@@ -107,17 +107,17 @@ Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 <table class="schedule">
 	<tr>
 		<td class="timeslot">
-			7:30 AM-<br> 8:15 PM
+			7:30 AM-<br> 8:30 AM
 		</td>
 		<td class="evt">
-			<span class="evt_title">Programming Contest Breakfast</span><br>
+			<span class="evt_title">Programming Contest Registration and Breakfast</span><br>
 			<span class="evt_details"></span><br>
 			<span class="evt_loc">KEC Canteen Area</span><br>
 		</td>
 	</tr>
 	<tr>
 		<td class="timeslot">
-			8:15 AM-<br> 9:00 AM
+			8:30 AM-<br> 9:15 AM
 		</td>
 		<td class="evt">
 			<span class="evt_title">Programming Contest Orientation</span><br>
@@ -127,7 +127,7 @@ Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 	</tr>
 	<tr>
 		<td class="timeslot">
-			9:00 AM-<br> 12:00 PM
+			9:15 AM-<br> 12:45 PM
 		</td>
 		<td class="evt">
 			<span class="evt_title">Programming Contest</span><br>
