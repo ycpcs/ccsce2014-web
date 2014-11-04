@@ -4,7 +4,9 @@ title: "CCSC-E 2014 Local Information"
 ---
 
 # Local Information
-Included below, are driving directions to get to York College campus, and information about local restaurants and nearby attractions.
+Included below, are driving directions to get to York College campus, how to find your way to conference events, and information about local restaurants and nearby attractions.
+
+It wouldn't be a bad idea to print this out and bring it with you to the conference.
 
 
 ## Directions to York College Campus and Conference Parking
