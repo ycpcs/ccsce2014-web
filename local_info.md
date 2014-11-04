@@ -1,16 +1,17 @@
-##Local Information
-------------------
+---
+layout: default
+title: "CCSC-E 2014 Local Information"
+---
+
+# Local Information
 Included below, are driving directions to get to York College campus, and information about local restaurants and nearby attractions.
 
 
-<br>
-###Directions to York College Campus and Conference Parking
-------------------------------------------------------------------
+## Directions to York College Campus and Conference Parking
 
 **York College, main campus address:** 441 Country Club Rd, York, PA 17403<br>
 **GPS coordinates for conference parking:** 39.947408, -76.737132
 
-<br>
 
 **From New York City:**<br>
 take I-80 west to route 287 south<br>
@@ -83,10 +84,13 @@ take I-695 west<br>
 follow directions from Baltimore<br>
 *Approximate driving time: 2 hours*
 
+## Where to go once you arrive on campus
 
-<br>
-###Local Restaurants
----------------------
+After parking, walk towards Grantley Road.  Gross Grantley Road and walk left towards Kinsley Engineering Center.  Enter Kinsley Engineering Center, then walk all the way through the building and out the back entrance.  Follow the signs reading ``CCSC-E: To Willman'': these will lead you to the Willman Business Administration Building, where registration and the opening session will take place.
+
+
+## Local Restaurants
+
 **Accomac Inn**<br>
 6330 South River Dr<br>
 717.252.1521
@@ -149,9 +153,7 @@ Chinese Restaurant<br>
 717.848.1111
 
     
-<br>
-###Nearby Attractions
----------------------
+## Nearby Attractions
 
 **Downtown York, Pennsylvania**<br>
 Learn about local attractions, activities, and events.<br>
@@ -212,3 +214,7 @@ There is more to this town besides chocolate. Come experience all Hershey has to
 **HERSHEYPARK, Hershey, PA**<br>
 From world-class attractions, award-winning resorts, year-round entertainment and events, Hershey has something for everyone. <br>
 [http://www.hersheypark.com](http://www.hersheypark.com)
+
+## Campus Map
+
+<img style="width: 640px;" alt="Annotated Campus Map" src="campus_map_annotated.png">
