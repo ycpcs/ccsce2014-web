@@ -86,10 +86,43 @@ take I-695 west<br>
 follow directions from Baltimore<br>
 *Approximate driving time: 2 hours*
 
+## Directions from Conference Hotels to Campus and Conference Parking
+
+**From the Yorktowne**:
+
+* Get on East Market Street
+* Turn right onto Queen Street
+* Turn right onto E College Ave
+* Drive about one mile to Grantley Rd, then turn left
+* In about .4 miles, turn right onto York College Drive, then take the first right into the parking lot
+
+**From the Hampton Inn**:
+
+* Turn right onto Queen St and drive about 1.8 miles
+* Turn left onto Rathton Road and drive about 1.2 miles (Rathton Road will become Country Club Road)
+* At the first traffic light, turn right onto Grantley Rd
+* At the first traffic light, turn left onto York College Drive, then take the first right into the parking lot
+
+**From Country Inn and Suites**:
+
+* Turn right onto St Charles Way (which will become Dew Drop Rd)
+* Turn right onto Powder Mill Road and drive about 1.1 miles
+* Turn right onto South George St and drive about 1.1 miles
+* At the third traffic light, turn left onto Country Club Rd
+* At the first traffic light, turn right onto Grantley Rd
+* At the first traffic light, turn left onto York College Drive, then take the first right into the parking lot
+
+**From the Holiday Inn Express**:
+
+* Turn left onto Leader Heights Rd, drive for about .4 miles
+* Turn right onto South George St and drive for about 2.6 miles
+* Turn left onto Country Club Rd
+* At the first traffic light, turn right onto Grantley Rd
+* At the first traffic light, turn left onto York College Drive, then take the first right into the parking lot
+
 ## Where to go once you arrive on campus
 
 After parking, walk towards Grantley Road.  Gross Grantley Road and walk left towards Kinsley Engineering Center.  Enter Kinsley Engineering Center, then walk all the way through the building and out the back entrance.  Follow the signs reading ``CCSC-E: To Willman'': these will lead you to the Willman Business Administration Building, where registration and the opening session will take place.
-
 
 ## Local Restaurants
 
