@@ -99,7 +99,8 @@ follow directions from Baltimore<br>
 **From the Hampton Inn**:
 
 * Turn right onto Queen St and drive about 1.8 miles
-* Turn left onto Rathton Road and drive about 1.2 miles (Rathton Road will become Country Club Road)
+* Turn left onto Rathton Rd and drive about 1.2 miles to arrive at the intersection of Rathton Rd and South George Street (the second light)
+* Go straight through the intersection and Rathton Road will become Country Club Road
 * At the first traffic light, turn right onto Grantley Rd
 * At the first traffic light, turn left onto York College Drive, then take the first right into the parking lot
 
@@ -122,7 +123,7 @@ follow directions from Baltimore<br>
 
 ## Where to go once you arrive on campus
 
-After parking, walk towards Grantley Road.  Gross Grantley Road and walk left towards Kinsley Engineering Center.  Enter Kinsley Engineering Center, then walk all the way through the building and out the back entrance.  Follow the signs reading ``CCSC-E: To Willman'': these will lead you to the Willman Business Administration Building, where registration and the opening session will take place.
+After parking, walk towards Grantley Road.  Cross Grantley Road and walk left towards Kinsley Engineering Center.  Enter Kinsley Engineering Center, then walk all the way through the building and out the back entrance.  Follow the signs reading ``CCSC-E: To Willman'': these will lead you to the Willman Business Administration Building, where registration and the opening session will take place.
 
 ## Local Restaurants
 
