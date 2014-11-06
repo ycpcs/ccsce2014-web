@@ -3,9 +3,7 @@ layout: default
 title: "CCSC-E 2014 Program"
 ---
 
-Last updated: November 3rd, 2014
-
-Note: This is not (necessarily) the final program.  There is a small chance that some minor changes may occur.
+Last updated: November 6th, 2014
 
 Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 
