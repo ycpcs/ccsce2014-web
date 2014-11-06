@@ -16,7 +16,7 @@ Please send comments to [dhovemey@ycp.edu](mailto:dhovemey@ycp.edu).
 <table class="schedule">
 	<tr>
 		<td class="timeslot">
-			12:00 PM-<br>
+			11:30 AM-<br>
 			1:00 PM
 		</td>
 		<td class="evt">
