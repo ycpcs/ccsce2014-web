@@ -8,6 +8,7 @@ Included below, are driving directions to get to York College campus, how to fin
 
 It wouldn't be a bad idea to print this out and bring it with you to the conference.
 
+For information about the conference events, please see the [program](program.html).  You can also download the [printed program](program.pdf) (10MB).
 
 ## Directions to York College Campus and Conference Parking
 
