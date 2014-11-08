@@ -17,7 +17,7 @@ An orientation session will start at 8:30 *sharp* in KEC 125.  The orientation w
 
 The contest will start no later than 9:15 AM and end no later than 12:45 PM.  When the contest is finished, programming contest participants should proceed to Yorkview Hall (on the top floor of the Willman Business Administration Building) for the conference luncheon and awards ceremony.
 
-See the [local information](local_info.html) page for information about parking, maps, etc.
+See the [local information](local_info.html) page for directions, maps, information about parking, etc.
 
 # Contest Rules
 
